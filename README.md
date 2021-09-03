@@ -1,4 +1,4 @@
-# Laboratorios de Laboratorio Intermedio
+# Laboratorio Intermedio
 * Laboratorio 1: Rayos X (Semanas 3 y 4)
 * Laboratorio 2: Franck-Hertz (Semanas 5 y 6)
 * Laboratorio 3: Interferometría (Semanas 7 y 8)
