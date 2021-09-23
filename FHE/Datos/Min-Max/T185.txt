@@ -1,5 +1,5 @@
 tipo	U1[V]	IA[nA]
-mínimo	15.77	0.92
+mínimo	15.33	0.92
 máximo	18.43	1.85
 mínimo	20.39	1.24
 máximo	22.85	3.05
